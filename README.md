@@ -25,6 +25,7 @@
 
 ---
 
+
 ## Goal
 
 Visually match the images in the “screenshots” folder and create the interaction shown in the linked video.
